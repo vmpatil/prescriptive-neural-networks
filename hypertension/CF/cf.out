@@ -1,0 +1,102 @@
+hypertension/._.DS_Store
+hypertension/.DS_Store
+hypertension/hypertension_learned/
+hypertension/hypertension_learned/._.DS_Store
+hypertension/hypertension_learned/.DS_Store
+hypertension/hypertension_learned/hypertension_v1.csv
+hypertension/hypertension_learned/._hypertension_v2.csv
+hypertension/hypertension_learned/hypertension_v2.csv
+hypertension/hypertension_learned/hypertension_v3.csv
+hypertension/hypertension_learned/hypertension_v1_enc.csv
+hypertension/hypertension_learned/hypertension_v2_enc.csv
+hypertension/hypertension_learned/hypertension_v3_enc.csv
+
+Output File Created
+
+Version File Created
+Training Version: v1
+Fold 1, Testing π(s) =  147.60707235031106 
+
+Fold 2, Testing π(s) =  146.3947062606571 
+
+Fold 3, Testing π(s) =  144.74549630112008 
+
+Fold 4, Testing π(s) =  147.4789205657301 
+
+Fold 5, Testing π(s) =  150.78562220048306 
+
+Fold 6, Testing π(s) =  150.85666382550656 
+
+Fold 7, Testing π(s) =  141.9698445338347 
+
+Fold 8, Testing π(s) =  143.9934389433515 
+
+Fold 9, Testing π(s) =  147.35514276644193 
+
+Fold 10, Testing π(s) =  142.5971556297315 
+
+
+Testing π(s) : 146.36541234902953| 95% Confidence Interval = [145.14157046167105, 147.589254236388]
+
+Version File Created
+Training Version: v2
+Fold 1, Testing π(s) =  152.15385797301852 
+
+Fold 2, Testing π(s) =  161.82260545553115 
+
+Fold 3, Testing π(s) =  147.79899621574452 
+
+Fold 4, Testing π(s) =  149.3027430816905 
+
+Fold 5, Testing π(s) =  150.78558063417324 
+
+Fold 6, Testing π(s) =  152.92992737377025 
+
+Fold 7, Testing π(s) =  145.62490777542857 
+
+Fold 8, Testing π(s) =  146.83271856472047 
+
+Fold 9, Testing π(s) =  149.85419612695043 
+
+Fold 10, Testing π(s) =  143.6409656113234 
+
+
+Testing π(s) : 150.0525410005825| 95% Confidence Interval = [148.468026249215, 151.63705575195]
+
+Version File Created
+Training Version: v3
+Fold 1, Testing π(s) =  148.8058556243605 
+
+Fold 2, Testing π(s) =  137.98622558279789 
+
+Fold 3, Testing π(s) =  143.41336475977374 
+
+Fold 4, Testing π(s) =  148.6183236678689 
+
+Fold 5, Testing π(s) =  153.29836221869127 
+
+Fold 6, Testing π(s) =  150.01013227050046 
+
+Fold 7, Testing π(s) =  146.7893412681506 
+
+Fold 8, Testing π(s) =  143.35261032842166 
+
+Fold 9, Testing π(s) =  155.0855200116948 
+
+Fold 10, Testing π(s) =  146.52242534464355 
+
+
+Testing π(s) : 147.3882161076903| 95% Confidence Interval = [145.04563942161207, 149.73079279376856]
+Output/
+Output/v1/
+Output/v1/outcomes.json
+Output/v1/gap.json
+Output/v1/runtime.json
+Output/v2/
+Output/v2/outcomes.json
+Output/v2/gap.json
+Output/v2/runtime.json
+Output/v3/
+Output/v3/outcomes.json
+Output/v3/gap.json
+Output/v3/runtime.json

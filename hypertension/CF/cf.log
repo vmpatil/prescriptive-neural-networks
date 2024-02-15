@@ -1,0 +1,38 @@
+000 (21211.000.000) 2022-09-10 18:27:17 Job submitted from host: <144.92.142.185:9618?addrs=144.92.142.185-9618&alias=opt-submit.discovery.wisc.edu&noUDP&sock=schedd_8094_63a5>
+...
+040 (21211.000.000) 2022-09-10 18:27:28 Started transferring input files
+	Transferring to host: <144.92.142.182:9618?addrs=144.92.142.182-9618&alias=opt-a002.discovery.wisc.edu&noUDP&sock=slot1_5_44304_ed03_14762>
+...
+040 (21211.000.000) 2022-09-10 18:27:35 Finished transferring input files
+...
+001 (21211.000.000) 2022-09-10 18:27:35 Job executing on host: <144.92.142.182:9618?addrs=144.92.142.182-9618&alias=opt-a002.discovery.wisc.edu&noUDP&sock=startd_44228_4ec8>
+...
+006 (21211.000.000) 2022-09-10 18:27:44 Image size of job updated: 1048
+	2  -  MemoryUsage of job (MB)
+	1048  -  ResidentSetSize of job (KB)
+...
+006 (21211.000.000) 2022-09-10 18:28:09 Image size of job updated: 1438192
+	2  -  MemoryUsage of job (MB)
+	1048  -  ResidentSetSize of job (KB)
+...
+040 (21211.000.000) 2022-09-10 18:28:09 Started transferring output files
+...
+040 (21211.000.000) 2022-09-10 18:28:09 Finished transferring output files
+...
+005 (21211.000.000) 2022-09-10 18:28:09 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:32, Sys 0 00:00:07  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:32, Sys 0 00:00:07  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	15079  -  Run Bytes Sent By Job
+	846854144  -  Run Bytes Received By Job
+	15079  -  Total Bytes Sent By Job
+	846854144  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 4         4 
+	   Disk (KB)            :  4032763  8388608   8900283 
+	   Memory (MB)          :        2    32768     32768 
+
+	Job terminated of its own accord at 2022-09-10T23:28:09Z.
+...
