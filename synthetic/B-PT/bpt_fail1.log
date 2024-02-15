@@ -1,0 +1,148 @@
+009 (21114.000.000) 2022-08-16 16:37:44 Job was aborted.
+	via condor_rm (by user vpatil)
+
+	Job terminated by itself at 2022-08-16T21:31:38Z (using method 0: OF_ITS_OWN_ACCORD).
+...
+000 (21115.000.000) 2022-08-16 16:38:04 Job submitted from host: <144.92.142.185:9618?addrs=144.92.142.185-9618&alias=opt-submit.discovery.wisc.edu&noUDP&sock=schedd_8094_63a5>
+...
+040 (21115.000.000) 2022-08-16 16:38:12 Started transferring input files
+	Transferring to host: <144.92.142.184:9618?addrs=144.92.142.184-9618&alias=opt-a004.discovery.wisc.edu&noUDP&sock=slot1_13_44218_54bf_3812>
+...
+040 (21115.000.000) 2022-08-16 16:38:22 Finished transferring input files
+...
+001 (21115.000.000) 2022-08-16 16:38:22 Job executing on host: <144.92.142.184:9618?addrs=144.92.142.184-9618&alias=opt-a004.discovery.wisc.edu&noUDP&sock=startd_44142_51a3>
+...
+006 (21115.000.000) 2022-08-16 16:38:30 Image size of job updated: 253440
+	2  -  MemoryUsage of job (MB)
+	1052  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 16:43:30 Image size of job updated: 2917296
+	181  -  MemoryUsage of job (MB)
+	185252  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 16:48:31 Image size of job updated: 2918124
+	520  -  MemoryUsage of job (MB)
+	532120  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 16:53:31 Image size of job updated: 2918124
+	536  -  MemoryUsage of job (MB)
+	548752  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 16:58:32 Image size of job updated: 2918124
+	648  -  MemoryUsage of job (MB)
+	663252  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 17:03:32 Image size of job updated: 2918124
+	708  -  MemoryUsage of job (MB)
+	724888  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 17:13:34 Image size of job updated: 3092424
+	1524  -  MemoryUsage of job (MB)
+	1559856  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 17:18:34 Image size of job updated: 3117236
+	1524  -  MemoryUsage of job (MB)
+	1559856  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 17:23:35 Image size of job updated: 3138732
+	2030  -  MemoryUsage of job (MB)
+	2078584  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 17:28:35 Image size of job updated: 3144984
+	2030  -  MemoryUsage of job (MB)
+	2078584  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 17:33:36 Image size of job updated: 3205112
+	2030  -  MemoryUsage of job (MB)
+	2078584  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 18:03:39 Image size of job updated: 3413188
+	2030  -  MemoryUsage of job (MB)
+	2078584  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 18:08:40 Image size of job updated: 3413188
+	2048  -  MemoryUsage of job (MB)
+	2096344  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 18:13:41 Image size of job updated: 3413188
+	2049  -  MemoryUsage of job (MB)
+	2097264  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 18:28:42 Image size of job updated: 3413188
+	2080  -  MemoryUsage of job (MB)
+	2129740  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 18:33:43 Image size of job updated: 3413188
+	2080  -  MemoryUsage of job (MB)
+	2129748  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 20:13:52 Image size of job updated: 3638984
+	2080  -  MemoryUsage of job (MB)
+	2129748  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 21:29:00 Image size of job updated: 3950544
+	2133  -  MemoryUsage of job (MB)
+	2184184  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 21:54:02 Image size of job updated: 4359076
+	2146  -  MemoryUsage of job (MB)
+	2196880  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 22:04:04 Image size of job updated: 4359076
+	2157  -  MemoryUsage of job (MB)
+	2207972  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 22:34:07 Image size of job updated: 4359076
+	2166  -  MemoryUsage of job (MB)
+	2217656  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 22:39:08 Image size of job updated: 4533032
+	2166  -  MemoryUsage of job (MB)
+	2217656  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 22:49:09 Image size of job updated: 4652436
+	2210  -  MemoryUsage of job (MB)
+	2262744  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-16 23:54:15 Image size of job updated: 4652436
+	2221  -  MemoryUsage of job (MB)
+	2273992  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-17 00:14:17 Image size of job updated: 4661804
+	2221  -  MemoryUsage of job (MB)
+	2273992  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-17 00:19:17 Image size of job updated: 4661804
+	2288  -  MemoryUsage of job (MB)
+	2342680  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-17 00:24:18 Image size of job updated: 4661804
+	2390  -  MemoryUsage of job (MB)
+	2446688  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-17 01:54:27 Image size of job updated: 4723028
+	2541  -  MemoryUsage of job (MB)
+	2601448  -  ResidentSetSize of job (KB)
+...
+006 (21115.000.000) 2022-08-17 01:59:27 Image size of job updated: 4723028
+	2541  -  MemoryUsage of job (MB)
+	2601472  -  ResidentSetSize of job (KB)
+...
+040 (21115.000.000) 2022-08-18 04:46:19 Started transferring output files
+...
+040 (21115.000.000) 2022-08-18 04:46:19 Finished transferring output files
+...
+007 (21115.000.000) 2022-08-18 04:46:19 Shadow exception!
+	Error from slot1_13@opt-a004.discovery.wisc.edu: STARTER at 144.92.142.184 failed to send file(s) to <144.92.142.185:9618>: error reading from /var/lib/condor/execute/dir_236581/1_easy.tar.gz: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <144.92.142.184:39330>
+	1581456  -  Run Bytes Sent By Job
+	1173241472  -  Run Bytes Received By Job
+...
+012 (21115.000.000) 2022-08-18 04:46:19 Job was held.
+	Error from slot1_13@opt-a004.discovery.wisc.edu: STARTER at 144.92.142.184 failed to send file(s) to <144.92.142.185:9618>: error reading from /var/lib/condor/execute/dir_236581/1_easy.tar.gz: (errno 2) No such file or directory; SHADOW failed to receive file(s) from <144.92.142.184:39330>
+	Code 13 Subcode 2
+...
+009 (21115.000.000) 2022-08-18 09:04:11 Job was aborted.
+	via condor_rm (by user vpatil)
+
+	Job terminated by itself at 2022-08-18T09:46:19Z (using method 0: OF_ITS_OWN_ACCORD).
+...

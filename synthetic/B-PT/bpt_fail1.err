@@ -1,0 +1,25 @@
+tar: Ignoring unknown extended header keyword `LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword `LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword `LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword `LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword `LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword `LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword `LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword `LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword `LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword `LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword `LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword `LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword `LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword `LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword `LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword `LIBARCHIVE.xattr.com.apple.FinderInfo'
+Traceback (most recent call last):
+  File "/var/lib/condor/execute/dir_236581/bpt.py", line 265, in <module>
+    obj, mip_gap, mip_runtime, output, rule, assignments = B_PT(df, ancestor_pathing, num_feats, theta=0.5, outcome='y', treatment='t')
+  File "/var/lib/condor/execute/dir_236581/bpt.py", line 198, in B_PT
+    return model.objVal, model.MIPGap, model.Runtime, output_dict, branching_rule, treatment_assignments
+  File "src/gurobipy/model.pxi", line 343, in gurobipy.Model.__getattr__
+  File "src/gurobipy/model.pxi", line 1842, in gurobipy.Model.getAttr
+  File "src/gurobipy/attrutil.pxi", line 100, in gurobipy.__getattr
+AttributeError: Unable to retrieve attribute 'MIPGap'
