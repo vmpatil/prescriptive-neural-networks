@@ -1,0 +1,70 @@
+000 (21809.000.000) 2022-12-17 13:01:48 Job submitted from host: <144.92.142.185:9618?addrs=144.92.142.185-9618&alias=opt-submit.discovery.wisc.edu&noUDP&sock=schedd_24396_348e>
+...
+040 (21809.000.000) 2022-12-17 13:01:49 Started transferring input files
+	Transferring to host: <144.92.142.168:9618?addrs=144.92.142.168-9618&alias=opt-b008.discovery.wisc.edu&noUDP&sock=slot1_4_22872_249b_12057>
+...
+040 (21809.000.000) 2022-12-17 13:01:56 Finished transferring input files
+...
+001 (21809.000.000) 2022-12-17 13:01:56 Job executing on host: <144.92.142.168:9618?addrs=144.92.142.168-9618&alias=opt-b008.discovery.wisc.edu&noUDP&sock=startd_22796_bd06>
+...
+006 (21809.000.000) 2022-12-17 13:02:05 Image size of job updated: 972
+	1  -  MemoryUsage of job (MB)
+	972  -  ResidentSetSize of job (KB)
+...
+006 (21809.000.000) 2022-12-17 13:07:06 Image size of job updated: 2723392
+	630  -  MemoryUsage of job (MB)
+	644972  -  ResidentSetSize of job (KB)
+...
+006 (21809.000.000) 2022-12-17 13:17:07 Image size of job updated: 2793264
+	630  -  MemoryUsage of job (MB)
+	644972  -  ResidentSetSize of job (KB)
+...
+006 (21809.000.000) 2022-12-17 13:22:07 Image size of job updated: 2793264
+	737  -  MemoryUsage of job (MB)
+	754244  -  ResidentSetSize of job (KB)
+...
+006 (21809.000.000) 2022-12-17 13:27:07 Image size of job updated: 2793264
+	768  -  MemoryUsage of job (MB)
+	786416  -  ResidentSetSize of job (KB)
+...
+006 (21809.000.000) 2022-12-17 13:32:07 Image size of job updated: 2793264
+	769  -  MemoryUsage of job (MB)
+	786744  -  ResidentSetSize of job (KB)
+...
+006 (21809.000.000) 2022-12-17 14:27:14 Image size of job updated: 2793264
+	795  -  MemoryUsage of job (MB)
+	813564  -  ResidentSetSize of job (KB)
+...
+006 (21809.000.000) 2022-12-17 15:37:21 Image size of job updated: 2793264
+	813  -  MemoryUsage of job (MB)
+	831976  -  ResidentSetSize of job (KB)
+...
+006 (21809.000.000) 2022-12-17 19:32:48 Image size of job updated: 2793264
+	817  -  MemoryUsage of job (MB)
+	836420  -  ResidentSetSize of job (KB)
+...
+006 (21809.000.000) 2022-12-18 01:38:19 Image size of job updated: 2793264
+	834  -  MemoryUsage of job (MB)
+	853044  -  ResidentSetSize of job (KB)
+...
+040 (21809.000.000) 2022-12-18 04:34:21 Started transferring output files
+...
+040 (21809.000.000) 2022-12-18 04:34:21 Finished transferring output files
+...
+005 (21809.000.000) 2022-12-18 04:34:21 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 21:04:07, Sys 0 00:16:21  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 21:04:07, Sys 0 00:16:21  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	210168  -  Run Bytes Sent By Job
+	856272320  -  Run Bytes Received By Job
+	210168  -  Total Bytes Sent By Job
+	856272320  -  Total Bytes Received By Job
+	Partitionable Resources :      Usage  Request Allocated 
+	   Cpus                 :       1.02        4         4 
+	   Disk (KB)            : 4093075     8388608   8900284 
+	   Memory (MB)          :     834       32768     32768 
+
+	Job terminated of its own accord at 2022-12-18T10:34:21Z.
+...

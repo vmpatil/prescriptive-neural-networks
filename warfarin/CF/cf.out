@@ -1,0 +1,334 @@
+warfarin/
+warfarin/seed_135/
+warfarin/._.DS_Store
+warfarin/.DS_Store
+warfarin/seed_5/
+warfarin/seed_52/
+warfarin/seed_13/
+warfarin/seed_82/
+warfarin/seed_82/learned/
+warfarin/seed_82/._.DS_Store
+warfarin/seed_82/.DS_Store
+warfarin/seed_82/warfarin_p=33.csv
+warfarin/seed_82/warfarin_p=85.csv
+warfarin/seed_82/warfarin_p=65.csv
+warfarin/seed_82/learned/warfarin_p=65_enc.csv
+warfarin/seed_82/learned/warfarin_p=33.csv
+warfarin/seed_82/learned/warfarin_p=85.csv
+warfarin/seed_82/learned/warfarin_p=33_enc.csv
+warfarin/seed_82/learned/warfarin_p=65.csv
+warfarin/seed_82/learned/warfarin_p=85_enc.csv
+warfarin/seed_13/learned/
+warfarin/seed_13/._.DS_Store
+warfarin/seed_13/.DS_Store
+warfarin/seed_13/warfarin_p=33.csv
+warfarin/seed_13/._warfarin_p=85.csv
+warfarin/seed_13/warfarin_p=85.csv
+warfarin/seed_13/._warfarin_p=65.csv
+warfarin/seed_13/warfarin_p=65.csv
+warfarin/seed_13/learned/warfarin_p=65_enc.csv
+warfarin/seed_13/learned/warfarin_p=33.csv
+warfarin/seed_13/learned/warfarin_p=85.csv
+warfarin/seed_13/learned/warfarin_p=33_enc.csv
+warfarin/seed_13/learned/warfarin_p=65.csv
+warfarin/seed_13/learned/warfarin_p=85_enc.csv
+warfarin/seed_52/learned/
+warfarin/seed_52/._.DS_Store
+warfarin/seed_52/.DS_Store
+warfarin/seed_52/warfarin_p=33.csv
+warfarin/seed_52/warfarin_p=85.csv
+warfarin/seed_52/warfarin_p=65.csv
+warfarin/seed_52/learned/warfarin_p=65_enc.csv
+warfarin/seed_52/learned/warfarin_p=33.csv
+warfarin/seed_52/learned/warfarin_p=85.csv
+warfarin/seed_52/learned/._warfarin_p=33_enc.csv
+warfarin/seed_52/learned/warfarin_p=33_enc.csv
+warfarin/seed_52/learned/warfarin_p=65.csv
+warfarin/seed_52/learned/warfarin_p=85_enc.csv
+warfarin/seed_5/learned/
+warfarin/seed_5/._.DS_Store
+warfarin/seed_5/.DS_Store
+warfarin/seed_5/warfarin_p=33.csv
+warfarin/seed_5/warfarin_p=85.csv
+warfarin/seed_5/warfarin_p=65.csv
+warfarin/seed_5/learned/warfarin_p=65_enc.csv
+warfarin/seed_5/learned/warfarin_p=33.csv
+warfarin/seed_5/learned/warfarin_p=85.csv
+warfarin/seed_5/learned/warfarin_p=33_enc.csv
+warfarin/seed_5/learned/warfarin_p=65.csv
+warfarin/seed_5/learned/warfarin_p=85_enc.csv
+warfarin/seed_135/learned/
+warfarin/seed_135/._.DS_Store
+warfarin/seed_135/.DS_Store
+warfarin/seed_135/warfarin_p=33.csv
+warfarin/seed_135/warfarin_p=85.csv
+warfarin/seed_135/warfarin_p=65.csv
+warfarin/seed_135/learned/warfarin_p=65_enc.csv
+warfarin/seed_135/learned/warfarin_p=33.csv
+warfarin/seed_135/learned/warfarin_p=85.csv
+warfarin/seed_135/learned/warfarin_p=33_enc.csv
+warfarin/seed_135/learned/warfarin_p=65.csv
+warfarin/seed_135/learned/warfarin_p=85_enc.csv
+
+Output File Created
+
+Seed File Created
+
+On Seed: 41,135
+Out-of-Sample Probability for p=33, seed1=41,seed2=135: 33.38403041825095%
+
+On Seed: 41,135
+Out-of-Sample Probability for p=65, seed1=41,seed2=135: 33.38403041825095%
+
+On Seed: 41,135
+Out-of-Sample Probability for p=85, seed1=41,seed2=135: 28.28897338403042%
+
+On Seed: 41,5
+Out-of-Sample Probability for p=33, seed1=41,seed2=5: 34.06844106463878%
+
+On Seed: 41,5
+Out-of-Sample Probability for p=65, seed1=41,seed2=5: 34.06844106463878%
+
+On Seed: 41,5
+Out-of-Sample Probability for p=85, seed1=41,seed2=5: 34.06844106463878%
+
+On Seed: 41,52
+Out-of-Sample Probability for p=33, seed1=41,seed2=52: 34.82889733840304%
+
+On Seed: 41,52
+Out-of-Sample Probability for p=65, seed1=41,seed2=52: 34.82889733840304%
+
+On Seed: 41,52
+Out-of-Sample Probability for p=85, seed1=41,seed2=52: 34.82889733840304%
+
+On Seed: 41,13
+Out-of-Sample Probability for p=33, seed1=41,seed2=13: 34.448669201520914%
+
+On Seed: 41,13
+Out-of-Sample Probability for p=65, seed1=41,seed2=13: 34.448669201520914%
+
+On Seed: 41,13
+Out-of-Sample Probability for p=85, seed1=41,seed2=13: 34.448669201520914%
+
+On Seed: 41,82
+Out-of-Sample Probability for p=33, seed1=41,seed2=82: 33.76425855513308%
+
+On Seed: 41,82
+Out-of-Sample Probability for p=65, seed1=41,seed2=82: 33.76425855513308%
+
+On Seed: 41,82
+Out-of-Sample Probability for p=85, seed1=41,seed2=82: 33.76425855513308%
+
+Seed File Created
+
+On Seed: 12,135
+Out-of-Sample Probability for p=33, seed1=12,seed2=135: 33.30798479087452%
+
+On Seed: 12,135
+Out-of-Sample Probability for p=65, seed1=12,seed2=135: 33.30798479087452%
+
+On Seed: 12,135
+Out-of-Sample Probability for p=85, seed1=12,seed2=135: 31.863117870722434%
+
+On Seed: 12,5
+Out-of-Sample Probability for p=33, seed1=12,seed2=5: 32.77566539923954%
+
+On Seed: 12,5
+Out-of-Sample Probability for p=65, seed1=12,seed2=5: 32.77566539923954%
+
+On Seed: 12,5
+Out-of-Sample Probability for p=85, seed1=12,seed2=5: 32.77566539923954%
+
+On Seed: 12,52
+Out-of-Sample Probability for p=33, seed1=12,seed2=52: 33.38403041825095%
+
+On Seed: 12,52
+Out-of-Sample Probability for p=65, seed1=12,seed2=52: 33.38403041825095%
+
+On Seed: 12,52
+Out-of-Sample Probability for p=85, seed1=12,seed2=52: 33.38403041825095%
+
+On Seed: 12,13
+Out-of-Sample Probability for p=33, seed1=12,seed2=13: 32.9277566539924%
+
+On Seed: 12,13
+Out-of-Sample Probability for p=65, seed1=12,seed2=13: 32.9277566539924%
+
+On Seed: 12,13
+Out-of-Sample Probability for p=85, seed1=12,seed2=13: 32.9277566539924%
+
+On Seed: 12,82
+Out-of-Sample Probability for p=33, seed1=12,seed2=82: 33.155893536121674%
+
+On Seed: 12,82
+Out-of-Sample Probability for p=65, seed1=12,seed2=82: 33.155893536121674%
+
+On Seed: 12,82
+Out-of-Sample Probability for p=85, seed1=12,seed2=82: 33.155893536121674%
+
+Seed File Created
+
+On Seed: 60,135
+Out-of-Sample Probability for p=33, seed1=60,seed2=135: 34.448669201520914%
+
+On Seed: 60,135
+Out-of-Sample Probability for p=65, seed1=60,seed2=135: 34.448669201520914%
+
+On Seed: 60,135
+Out-of-Sample Probability for p=85, seed1=60,seed2=135: 29.35361216730038%
+
+On Seed: 60,5
+Out-of-Sample Probability for p=33, seed1=60,seed2=5: 33.76425855513308%
+
+On Seed: 60,5
+Out-of-Sample Probability for p=65, seed1=60,seed2=5: 33.76425855513308%
+
+On Seed: 60,5
+Out-of-Sample Probability for p=85, seed1=60,seed2=5: 33.76425855513308%
+
+On Seed: 60,52
+Out-of-Sample Probability for p=33, seed1=60,seed2=52: 33.536121673003805%
+
+On Seed: 60,52
+Out-of-Sample Probability for p=65, seed1=60,seed2=52: 33.536121673003805%
+
+On Seed: 60,52
+Out-of-Sample Probability for p=85, seed1=60,seed2=52: 33.536121673003805%
+
+On Seed: 60,13
+Out-of-Sample Probability for p=33, seed1=60,seed2=13: 34.372623574144484%
+
+On Seed: 60,13
+Out-of-Sample Probability for p=65, seed1=60,seed2=13: 34.372623574144484%
+
+On Seed: 60,13
+Out-of-Sample Probability for p=85, seed1=60,seed2=13: 34.372623574144484%
+
+On Seed: 60,82
+Out-of-Sample Probability for p=33, seed1=60,seed2=82: 34.06844106463878%
+
+On Seed: 60,82
+Out-of-Sample Probability for p=65, seed1=60,seed2=82: 34.06844106463878%
+
+On Seed: 60,82
+Out-of-Sample Probability for p=85, seed1=60,seed2=82: 34.06844106463878%
+
+Seed File Created
+
+On Seed: 2,135
+Out-of-Sample Probability for p=33, seed1=2,seed2=135: 33.155893536121674%
+
+On Seed: 2,135
+Out-of-Sample Probability for p=65, seed1=2,seed2=135: 33.155893536121674%
+
+On Seed: 2,135
+Out-of-Sample Probability for p=85, seed1=2,seed2=135: 28.060836501901143%
+
+On Seed: 2,5
+Out-of-Sample Probability for p=33, seed1=2,seed2=5: 32.9277566539924%
+
+On Seed: 2,5
+Out-of-Sample Probability for p=65, seed1=2,seed2=5: 32.9277566539924%
+
+On Seed: 2,5
+Out-of-Sample Probability for p=85, seed1=2,seed2=5: 32.9277566539924%
+
+On Seed: 2,52
+Out-of-Sample Probability for p=33, seed1=2,seed2=52: 33.840304182509506%
+
+On Seed: 2,52
+Out-of-Sample Probability for p=65, seed1=2,seed2=52: 33.840304182509506%
+
+On Seed: 2,52
+Out-of-Sample Probability for p=85, seed1=2,seed2=52: 33.840304182509506%
+
+On Seed: 2,13
+Out-of-Sample Probability for p=33, seed1=2,seed2=13: 34.06844106463878%
+
+On Seed: 2,13
+Out-of-Sample Probability for p=65, seed1=2,seed2=13: 34.06844106463878%
+
+On Seed: 2,13
+Out-of-Sample Probability for p=85, seed1=2,seed2=13: 34.06844106463878%
+
+On Seed: 2,82
+Out-of-Sample Probability for p=33, seed1=2,seed2=82: 34.06844106463878%
+
+On Seed: 2,82
+Out-of-Sample Probability for p=65, seed1=2,seed2=82: 34.06844106463878%
+
+On Seed: 2,82
+Out-of-Sample Probability for p=85, seed1=2,seed2=82: 34.06844106463878%
+
+Seed File Created
+
+On Seed: 872,135
+Out-of-Sample Probability for p=33, seed1=872,seed2=135: 34.29657794676806%
+
+On Seed: 872,135
+Out-of-Sample Probability for p=65, seed1=872,seed2=135: 34.29657794676806%
+
+On Seed: 872,135
+Out-of-Sample Probability for p=85, seed1=872,seed2=135: 31.330798479087452%
+
+On Seed: 872,5
+Out-of-Sample Probability for p=33, seed1=872,seed2=5: 34.372623574144484%
+
+On Seed: 872,5
+Out-of-Sample Probability for p=65, seed1=872,seed2=5: 34.372623574144484%
+
+On Seed: 872,5
+Out-of-Sample Probability for p=85, seed1=872,seed2=5: 34.372623574144484%
+
+On Seed: 872,52
+Out-of-Sample Probability for p=33, seed1=872,seed2=52: 34.90494296577947%
+
+On Seed: 872,52
+Out-of-Sample Probability for p=65, seed1=872,seed2=52: 34.90494296577947%
+
+On Seed: 872,52
+Out-of-Sample Probability for p=85, seed1=872,seed2=52: 34.90494296577947%
+
+On Seed: 872,13
+Out-of-Sample Probability for p=33, seed1=872,seed2=13: 34.372623574144484%
+
+On Seed: 872,13
+Out-of-Sample Probability for p=65, seed1=872,seed2=13: 34.372623574144484%
+
+On Seed: 872,13
+Out-of-Sample Probability for p=85, seed1=872,seed2=13: 34.372623574144484%
+
+On Seed: 872,82
+Out-of-Sample Probability for p=33, seed1=872,seed2=82: 34.60076045627377%
+
+On Seed: 872,82
+Out-of-Sample Probability for p=65, seed1=872,seed2=82: 34.60076045627377%
+
+On Seed: 872,82
+Out-of-Sample Probability for p=85, seed1=872,seed2=82: 34.60076045627377%
+output/
+output/41/
+output/41/oosp.json
+output/41/gap.json
+output/41/runtime.json
+output/41/treatments.json
+output/12/
+output/12/oosp.json
+output/12/gap.json
+output/12/runtime.json
+output/12/treatments.json
+output/60/
+output/60/oosp.json
+output/60/gap.json
+output/60/runtime.json
+output/60/treatments.json
+output/2/
+output/2/oosp.json
+output/2/gap.json
+output/2/runtime.json
+output/2/treatments.json
+output/872/
+output/872/oosp.json
+output/872/gap.json
+output/872/runtime.json
+output/872/treatments.json

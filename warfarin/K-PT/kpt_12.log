@@ -1,0 +1,66 @@
+000 (21810.000.000) 2022-12-17 13:02:12 Job submitted from host: <144.92.142.185:9618?addrs=144.92.142.185-9618&alias=opt-submit.discovery.wisc.edu&noUDP&sock=schedd_24396_348e>
+...
+040 (21810.000.000) 2022-12-17 13:02:13 Started transferring input files
+	Transferring to host: <144.92.142.168:9618?addrs=144.92.142.168-9618&alias=opt-b008.discovery.wisc.edu&noUDP&sock=slot1_1_22872_249b_12058>
+...
+040 (21810.000.000) 2022-12-17 13:02:20 Finished transferring input files
+...
+001 (21810.000.000) 2022-12-17 13:02:20 Job executing on host: <144.92.142.168:9618?addrs=144.92.142.168-9618&alias=opt-b008.discovery.wisc.edu&noUDP&sock=startd_22796_bd06>
+...
+006 (21810.000.000) 2022-12-17 13:02:28 Image size of job updated: 253280
+	1  -  MemoryUsage of job (MB)
+	980  -  ResidentSetSize of job (KB)
+...
+006 (21810.000.000) 2022-12-17 13:07:28 Image size of job updated: 2701540
+	297  -  MemoryUsage of job (MB)
+	304072  -  ResidentSetSize of job (KB)
+...
+006 (21810.000.000) 2022-12-17 13:12:29 Image size of job updated: 2701540
+	564  -  MemoryUsage of job (MB)
+	577224  -  ResidentSetSize of job (KB)
+...
+006 (21810.000.000) 2022-12-17 13:22:29 Image size of job updated: 2730008
+	564  -  MemoryUsage of job (MB)
+	577224  -  ResidentSetSize of job (KB)
+...
+006 (21810.000.000) 2022-12-17 13:27:30 Image size of job updated: 2730008
+	788  -  MemoryUsage of job (MB)
+	806504  -  ResidentSetSize of job (KB)
+...
+006 (21810.000.000) 2022-12-17 13:32:30 Image size of job updated: 2730008
+	810  -  MemoryUsage of job (MB)
+	829036  -  ResidentSetSize of job (KB)
+...
+006 (21810.000.000) 2022-12-17 13:37:30 Image size of job updated: 2730008
+	811  -  MemoryUsage of job (MB)
+	830092  -  ResidentSetSize of job (KB)
+...
+006 (21810.000.000) 2022-12-17 16:37:51 Image size of job updated: 2730008
+	814  -  MemoryUsage of job (MB)
+	833268  -  ResidentSetSize of job (KB)
+...
+006 (21810.000.000) 2022-12-18 00:38:44 Image size of job updated: 2730008
+	839  -  MemoryUsage of job (MB)
+	859112  -  ResidentSetSize of job (KB)
+...
+040 (21810.000.000) 2022-12-18 04:26:48 Started transferring output files
+...
+040 (21810.000.000) 2022-12-18 04:26:48 Finished transferring output files
+...
+005 (21810.000.000) 2022-12-18 04:26:48 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 22:32:40, Sys 0 00:15:08  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 22:32:40, Sys 0 00:15:08  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	239986  -  Run Bytes Sent By Job
+	856272320  -  Run Bytes Received By Job
+	239986  -  Total Bytes Sent By Job
+	856272320  -  Total Bytes Received By Job
+	Partitionable Resources :      Usage  Request Allocated 
+	   Cpus                 :       1.02        4         4 
+	   Disk (KB)            : 4093127     8388608   8900284 
+	   Memory (MB)          :     839       32768     32768 
+
+	Job terminated of its own accord at 2022-12-18T10:26:47Z.
+...
