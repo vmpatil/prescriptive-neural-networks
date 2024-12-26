@@ -1,5 +1,5 @@
-# Prescriptive_Neural_Networks
-An associated Github repo for our paper 'Applications of 0-1 Neural Networks in Prescription and Prediction'
+# Prescriptive Neural Networks
+An associated Github repo for our paper 'Applications of 0-1 Neural Networks in Prescription and Prediction'. Major revisions in Healthcare Management Science.
 
 Authors: Vrishabh Patil (vmpatil@wisc.edu), Yonatan Mintz (ymintz@wisc.edu)
 
