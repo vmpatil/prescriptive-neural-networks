@@ -3,7 +3,7 @@ An associated Github repo for our paper 'Applications of 0-1 Neural Networks in 
 
 Authors: Vrishabh Patil (vmpatil@wisc.edu), Yonatan Mintz (ymintz@wisc.edu)
 
-**Under Review**
+**Accepted in Healthcare Management Science**
 
 ### Abstract ###
 
