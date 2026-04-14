@@ -1,7 +1,7 @@
 # Prescriptive Neural Networks
 An associated Github repo for our paper 'Applications of 0-1 Neural Networks in Prescription and Prediction'. Major revisions in Healthcare Management Science.
 
-Authors: Vrishabh Patil (vmpatil@wisc.edu), Yonatan Mintz (ymintz@wisc.edu)
+Authors: Vrishabh Patil (vmpatil@andrew.cmu.edu), Yonatan Mintz (ymintz@wisc.edu)
 
 **Published in Healthcare Management Science:** 
 Patil, V., Hoppe, K.K. & Mintz, Y. Healthcare applications of 0-1 neural networks in prescriptive problems with observational data. Health Care Manag Sci 29, 6 (2026). https://doi.org/10.1007/s10729-025-09751-5
